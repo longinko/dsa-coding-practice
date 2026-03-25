@@ -1,0 +1,33 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Go
+*.exe
+*.out
+*.test
+vendor/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
