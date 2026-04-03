@@ -1,0 +1,5 @@
+package list;
+
+// Given the beginning of a singly linked list head, reverse the list, and return the new beginning of the list.
+public class ReverseLinkedList {
+}
